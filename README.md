@@ -35,3 +35,7 @@ nodemon app.js
 每个路由的功能详细信息请参考相应的路由的 controllers 文件。
 
 全局变量如`DATABASE_URL,JWT_SECRET,CLIENT_URL`在 api/.env 创建文件配置
+
+前端仓库链接:[https://github.com/mwcq/MWCQ-ESTATE-client](https://github.com/mwcq/MWCQ-ESTATE-client)
+
+socket 服务器仓库链接:[https://github.com/mwcq/MWCQ-ESTATE-socket](https://github.com/mwcq/MWCQ-ESTATE-socket)
